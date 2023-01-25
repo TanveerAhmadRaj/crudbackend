@@ -1,23 +1,9 @@
 {
-  "development": {
-    "username": "root",
-    "password": null,
-    "database": "crud",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "rMzbiZ3OEak",
+    "password": "epiz_33452200",
+    "database": "epiz_33452200_crud",
+    "host": "sql104.epizy.com",
     "dialect": "mysql"
   }
 }
